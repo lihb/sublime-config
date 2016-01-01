@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Git",
+		"Markdown Preview",
+		"Package Control",
+		"SyncedSideBar"
+	]
+}
